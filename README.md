@@ -1,8 +1,7 @@
 
-
 # Multilingual Chatbot
 
-![Chatbot Banner](https://via.placeholder.com/1000x300?text=Multilingual+Chatbot)  
+![Multilingual Chatbot Banner](https://via.placeholder.com/1000x300?text=Multilingual+Chatbot)  
 *Bringing language diversity to human-machine interaction.*
 
 ---
@@ -13,10 +12,6 @@
 - 🧠 **AI-Powered**: Uses state-of-the-art NLP techniques.
 - 🔌 **Extensible**: Easily integrate new languages and features.
 - 💻 **User-Friendly**: Simple and intuitive interface.
-
----
-
-![Features Illustration](https://via.placeholder.com/800x400?text=Illustration+of+Chatbot+Features)
 
 ---
 
@@ -46,8 +41,6 @@
 ---
 
 ## 🧑‍💻 Usage
-
-![Chatbot in Action](https://via.placeholder.com/800x400?text=Demo+of+Chatbot+in+Action)
 
 1. Run the Chatbot:
    ```bash
@@ -104,3 +97,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Language Translation API](https://example-translation-api.com)
 
 ---
+
