@@ -1,0 +1,58 @@
+________________________________________
+You: can i speak marathi with you
+ 
+AI: होय, मी तुमच्याशी मराठीमध्ये बोलू शकतो. 
+
+You: ghar per kuchh sahi hai bharat ki rajdhani kahan hai
+ 
+AI: घर पर सर्व काही ठीक आहे. भारतची राजधानी दिल्ली आहे. 
+
+You: can i speak telugu with you
+ 
+AI: అవును, నేను మీతో తెలుగులో మాట్లాడగలను. 
+
+You: can you tell me something about statue of liberty
+ 
+AI: स्टेच्यू ऑफ लिबर्टी ही न्यूयॉर्क शहरात असलेली एक मोठी मूर्ती आहे. हे फ्रान्सने अमेरिकेला भेट म्हणून दिले होते आणि ते स्वातंत्र्य आणि लोकशाहीचे प्र 
+
+You: nenu telugu lo telugu
+ 
+AI: నేను తెలుగులో తెలుగు 
+
+You: tajmahal ke bhav badla hota
+ 
+AI: ताजमहल एक ऐतिहासिक स्मारक है और इसका कोई बाजार मूल्य नहीं है। यह भारतीय सरकार के पुरातत्व सर्वेक्षण विभाग के स्वामित्व और संरक्षण में है। 
+
+You: tajmahal koni bandla hota
+ 
+AI: ताजमहल निम्नलिखित कारणों से बंद हो सकता है:
+
+* **नवीनीकरण या रखरखाव कार्य:** ताजमहल को संरक्षित करने और इसकी सुंदरता बनाए रखने के लिए समय-समय पर नवीनीकरण और रखर 
+
+You: tajmahal kisne banaya tha
+ 
+AI: ताजमहल का निर्माण मुगल सम्राट शाहजहाँ ने अपनी पत्नी मुमताज महल की याद में करवाया था। 
+
+You: who built taj mahal
+ 
+AI: Taj Mahal was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. 
+
+You: tu kaisa hai
+ 
+AI: मैं एक बड़ा भाषा मॉडल हूं, जो Google द्वारा प्रशिक्षित किया गया है। 
+
+You: vanakkam en peyar khan
+ 
+AI: வணக்கம் என் பெயர் கான் 
+
+________________________________________
+You: statue of liberty kahan per hai
+ 
+AI: लिबर्टी द्वीप, न्यूयॉर्क शहर, संयुक्त राज्य अमेरिका 
+
+You: accent of
+ 
+AI: **एकसेंट**
+
+एकसेंट, जिसे उच्चारण भी कहा जाता है, किसी भाषा या बोली के बोलने का एक विशिष्ट तरीका है जो किसी विशेष क्षेत्र, सामाजिक समूह या व्यक्ति की पहचान करता है। यह भ 
+
