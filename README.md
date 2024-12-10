@@ -1,7 +1,8 @@
 
 # Multilingual Chatbot
 
-![Multilingual Chatbot Banner](https://via.placeholder.com/1000x300?text=Multilingual+Chatbot)  
+![image](https://github.com/user-attachments/assets/e20b3e6d-d91e-46e7-8bce-01632a25348f)
+
 *Bringing language diversity to human-machine interaction.*
 
 ---
